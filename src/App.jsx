@@ -1,7 +1,7 @@
 /* import { useState } from 'react' */
 /* import reactLogo from './assets/react.svg'
 import './App.css' */
-import { Post } from "./Post";
+import { Post } from "./components/Post";
 import { Header } from "./components/Header";
 import { Sidebar } from "./components/Sidebar";
 
